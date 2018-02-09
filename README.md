@@ -1,7 +1,7 @@
 # poetry-generators
 For Reading and Writing Electronic Text - Allison Parrish
 
-I can not attach images on jupiter notebook. Here are missing files
+I can not attach images on jupiter notebook. Here are missing files of results that I like
 
 ![](https://static.notion-static.com/d94e4268-d6d5-447d-a414-35d87fc89225/Screen_Shot_2018-02-09_at_12.41.45_AM.png)
 
